@@ -38,6 +38,66 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 # Meta AI
 127.0.0.1 meta.ai
 
+# === SOCIAL MEDIA ===
+
+# Facebook
+127.0.0.1 facebook.com
+127.0.0.1 www.facebook.com
+127.0.0.1 m.facebook.com
+127.0.0.1 web.facebook.com
+
+# Instagram
+127.0.0.1 instagram.com
+127.0.0.1 www.instagram.com
+
+# TikTok
+127.0.0.1 tiktok.com
+127.0.0.1 www.tiktok.com
+127.0.0.1 vm.tiktok.com
+
+# Snapchat
+127.0.0.1 snapchat.com
+127.0.0.1 www.snapchat.com
+
+# X / Twitter
+127.0.0.1 twitter.com
+127.0.0.1 www.twitter.com
+127.0.0.1 x.com
+127.0.0.1 www.x.com
+
+# YouTube
+127.0.0.1 youtube.com
+127.0.0.1 www.youtube.com
+127.0.0.1 youtu.be
+127.0.0.1 m.youtube.com
+
+# Pinterest
+127.0.0.1 pinterest.com
+127.0.0.1 www.pinterest.com
+127.0.0.1 pinterest.de
+
+# LinkedIn
+127.0.0.1 linkedin.com
+127.0.0.1 www.linkedin.com
+
+# Telegram
+127.0.0.1 telegram.org
+127.0.0.1 web.telegram.org
+127.0.0.1 t.me
+
+# Discord
+127.0.0.1 discord.com
+127.0.0.1 www.discord.com
+127.0.0.1 discordapp.com
+
+# Twitch
+127.0.0.1 twitch.tv
+127.0.0.1 www.twitch.tv
+
+# BeReal
+127.0.0.1 bereal.com
+127.0.0.1 www.bereal.com
+
 # === WHITELIST (werden NICHT geblockt) ===
 WHITELIST github.com
 WHITELIST githubusercontent.com
