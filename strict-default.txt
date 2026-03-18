@@ -13,3 +13,11 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 # JetBrains Rider KI-Assistent
 127.0.0.1 aia.jetbrains.com
 127.0.0.1 api.jetbrains.com
+
+# === WHITELIST (werden NICHT geblockt) ===
+WHITELIST github.com
+WHITELIST githubusercontent.com
+WHITELIST githubassets.com
+WHITELIST githubapp.com
+WHITELIST github.io
+WHITELIST github.dev
