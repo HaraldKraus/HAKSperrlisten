@@ -1,0 +1,15 @@
+# === EXTERNE QUELLEN ===
+# 1. KI-Sperre (ChatGPT, Claude, etc.)
+https://raw.githubusercontent.com/Stevoisiak/Stevos-GenAI-Blocklist/main/GenAI-Blocklist.txt
+
+# 2. Steven Black (Social + Gambling + Porn + Fakenews)
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
+
+# === MANUELLE LEHRER-SPERREN ===
+# Hier kannst du jederzeit Domains ergänzen
+127.0.0.1 poki.com
+127.0.0.1 crazygames.com
+127.0.0.1 browsergames.de
+# JetBrains Rider KI-Assistent
+127.0.0.1 aia.jetbrains.com
+127.0.0.1 api.jetbrains.com
