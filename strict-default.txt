@@ -2,8 +2,8 @@
 # 1. KI-Sperre (ChatGPT, Claude, etc.)
 https://raw.githubusercontent.com/Stevoisiak/Stevos-GenAI-Blocklist/main/GenAI-Blocklist.txt
 
-# 2. Steven Black (Social + Gambling + Porn + Fakenews)
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
+# 2. Steven Black (Gambling + Porn + Fakenews)
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 
 # === MANUELLE LEHRER-SPERREN ===
 # Hier kannst du jederzeit Domains ergänzen
@@ -13,6 +13,31 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 # JetBrains Rider KI-Assistent
 127.0.0.1 aia.jetbrains.com
 127.0.0.1 api.jetbrains.com
+# === KI-DIENSTE BLOCKEN ===
+# ChatGPT / OpenAI
+127.0.0.1 chat.openai.com
+127.0.0.1 chatgpt.com
+127.0.0.1 openai.com
+127.0.0.1 api.openai.com
+
+# Google Gemini
+127.0.0.1 gemini.google.com
+127.0.0.1 aistudio.google.com
+
+# Anthropic Claude
+127.0.0.1 claude.ai
+127.0.0.1 anthropic.com
+
+# Microsoft Copilot
+127.0.0.1 copilot.microsoft.com
+127.0.0.1 sydney.bing.com
+
+# Perplexity
+127.0.0.1 perplexity.ai
+
+# Meta AI
+127.0.0.1 meta.ai
+
 
 # === WHITELIST (werden NICHT geblockt) ===
 WHITELIST github.com
