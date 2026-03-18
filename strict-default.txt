@@ -98,6 +98,11 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 127.0.0.1 bereal.com
 127.0.0.1 www.bereal.com
 
+# WhatsApp (Web)
+127.0.0.1 web.whatsapp.com
+127.0.0.1 www.whatsapp.com
+127.0.0.1 whatsapp.com
+
 # === WHITELIST (werden NICHT geblockt) ===
 WHITELIST github.com
 WHITELIST githubusercontent.com
